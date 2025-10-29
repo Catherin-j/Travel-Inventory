@@ -190,3 +190,4 @@ This project is licensed under the MIT License.
 ## Support
 
 For questions or support, please refer to the documentation or create an issue in the project repository.
+deploy: https://travel-inventory.vercel.app/
